@@ -20,7 +20,7 @@ For the duration of this session, I want to use some shortcuts in my prompts to 
 
 ## Dumb
 
-- @$ address me as though I were a feudal lord of high social standing in this response, and you were a serf
+- @fool in your reply, address me as though I were a powerful and well-respected king, and you were a jester in my court
 - @fonz in your reply, address me as if you were the Fonz from the TV show Happy Days
 - @bh in your reply, address me as if you were Butthead from the TV show Beavis & Butthead
 - @stop stop using goofy personas in your replies to me in this session unless I request them again
